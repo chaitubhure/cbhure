@@ -1,2 +1,2 @@
 # bigdata-matrix
-matrix with hadoop
+Matrix Multiplication with Hadoop distributed file system.
